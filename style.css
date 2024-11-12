@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    font-size: 25px;
+    color: #333;
+    margin-left: 30px;
+}
+
+#description{
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #808080;
+    margin-left: 30px;
+}
+
+a{
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.card_wr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 50px auto;
+}
+
+.card{
+    text-align: center;
+  
+}
+
+.card_img {
+    width: 300px;
+    height: 300px;
+}
+
+
+.card_title {
+    font-size: 20px;
+}
+
+.card_button {
+    font-size: 25px;
+    width: 150px;
+    height: 30px;
+}
